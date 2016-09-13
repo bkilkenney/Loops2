@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Loops2-InfiniteLoops\Loops2-InfiniteLoops\bin\Debug\Loops2-InfiniteLoops.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Loops2-InfiniteLoops\Loops2-InfiniteLoops\bin\Debug\Loops2-InfiniteLoops.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Loops2-InfiniteLoops\Loops2-InfiniteLoops\bin\Debug\Loops2-InfiniteLoops.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Loops2-InfiniteLoops\Loops2-InfiniteLoops\obj\Debug\Loops2-InfiniteLoops.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Loops2-InfiniteLoops\Loops2-InfiniteLoops\obj\Debug\Loops2-InfiniteLoops.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Loops2-InfiniteLoops\Loops2-InfiniteLoops\obj\Debug\Loops2-InfiniteLoops.pdb
