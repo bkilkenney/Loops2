@@ -32,12 +32,27 @@ namespace Loops2_InfiniteLoops
             //Console.WriteLine(m);
 
 
-            int i;
+            //int i;
 
-            for(i = 1; i <= 10; i++)
+            //for(i = 1; i <= 10; i++)
+            //{
+            //    Console.WriteLine(i);
+            //}
+
+
+            Console.WriteLine("Enter a number.");
+            int userNumber = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Enter a larger number as an exponent.");
+            int userExponent = int.Parse(Console.ReadLine());
+
+            int result = 1;
+
+           for(int i = 0; i < userExponent; i++)
             {
-                Console.WriteLine(i);
+                userNumber *= userExponent;
             }
+            Console.WriteLine(userNumber);
 
         }
     }
